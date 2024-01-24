@@ -1,5 +1,3 @@
-# Automatic Image Captioning with Deep Learning
-By Jasmine He December, 2018
 
 ![](image/deepLearning.png)
 
